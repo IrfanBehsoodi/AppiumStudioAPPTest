@@ -1,1 +1,1 @@
-# Mobile Apps (iOS & Android) testing with Appium Studio in Eclipse
+Mobile Apps (iOS & Android) testing with Appium Studio in Eclipse with TestNG
